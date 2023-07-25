@@ -12,17 +12,99 @@
 
 \language "english"
 
+ives = {ef4 bf af af}
+
+
+
 \relative c'
 
 {
 
-     cs4\pp-3 d8\<([ ef f) g->-.] a4 |% m1
-     f16\! g a e a4 d f |% m2
+     e4\pp-3 f4\<([ gf af) bf] c4 |% m1
+     af16\! bf c g c4 f af |% m2
      \time 3/2
-     e2\ff^"Intense" b f |% m3
+     g2\ff^"Intense" d af |% m3
      \clef alto
      \numericTimeSignature \time 4/4
-     <c e>1 |%m4
+     <ef g>1 |%m4
+
+}
+
+     \relative c''
+     {
+  %   \ives |%m5
+     \tuplet 5/4 {g4  bf ef c a}|%m1
+
+     % voice "1"
+
+     << {bf4 d8( bf) c4 bf } \\ {g4 ef ef8 af g4 } >>|%m2
 
 
 }
+
+
+
+% lyrics
+
+\relative c'
+<<
+{ \time 6/4
+  ef4. f8 g4 af bf2}
+
+\addlyrics {hi my name is jonny}
+
+>>
+
+
+\relative c'{
+
+ef4 bf' g af |%m1
+f bf c, af|%m2
+
+}
+
+
+
+\relative c'
+
+{
+
+<<
+  \new Staff  \with {	instrumentName = "Oboe"}
+  {\clef "treble" \time 5/4 ef2.(f4 g)}
+
+  \new Staff  \with {	instrumentName = "Viola"}
+  {\clef "alto" \time 5/4 ef2.(f4 g)}
+
+  \new Staff  \with {	instrumentName = "Bassoon"}
+  {\clef "bass" \time 5/4 ef2.(f4 g)}
+
+
+>>
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
