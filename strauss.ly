@@ -68,7 +68,7 @@ r4 r4 a'|c,2 a'4|cs,2 a'4|d, a' c(|c) bf  a|g f e | g f d | c2 \acciaccatura e8 
 
 }
 
-r4 r c| d ef fs|af g c| ef2 d8. c16| ef2 d8. c16|c4 b d |f g af|af2 g8. f16|af2 g8. f16|f4 e f |af c4. c8|af4 g af | c ef4. ef8| c4 b c| ef d4. c8|c4 b c |  ef d4. c8|e!2.|e2.|e2.|d|g,,4 d'' cs|d e f |a2.|g| c,,,4 g'' fs|g a bf |d c a |f e d | c e d | c b a | g2.(| g2.)
+r4 r c| d ef fs|af g c| ef2 d8. c16| ef2 d8. c16|c4 b d |f g af|af2 g8. f16|af2 g8. f16|f4 e f |af c4. c8|af4 g af | c ef4. ef8| c4 b c| ef d4. c8|c4 b c |  ef d4. c8|e!2.|e2.|e2.|d|g,,4 d'' cs|d e f |a2.|g| c,,,4 g'' fs|g a bf |d c a |f e d | c e d | c b a | g2.(| g2.) |c4 e d |c b a |g f e| g f d c r r|
 
 
 
