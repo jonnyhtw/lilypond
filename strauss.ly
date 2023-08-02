@@ -71,6 +71,49 @@ r4 r4 a'|c,2 a'4|cs,2 a'4|d, a' c(|c) bf  a|g f e | g f d | c2 \acciaccatura e8 
 r4 r c| d ef fs|af g c| ef2 d8. c16| ef2 d8. c16|c4 b d |f g af|af2 g8. f16|af2 g8. f16|f4 e f |af c4. c8|af4 g af | c ef4. ef8| c4 b c| ef d4. c8|c4 b c |  ef d4. c8|e!2.|e2.|e2.|d|g,,4 d'' cs|d e f |a2.|g| c,,,4 g'' fs|g a bf |d c a |f e d | c e d | c b a | g2.(| g2.) |c4 e d |c b a |g f e| g f d c r r|
 
 
+ \compressMMRests {
+
+   R2.*7 |
+
+}
+
+
+r8 c'[( b c]) ef f  | g2. |g8 f e f g a| bf2.| bf8 a gs a c d| e4. b,8 c d |e4. b8 c e|f4. e8 f a |c2 fs,4|g2 g8 a |g f e d c d |  e2 e8 g|f e g f d a | g8. a16 g4 c|g8 fs f e d g |c,4 r r|g'8. a16 g4 d'| g r r|g8. a16 g4 d'|c8. d16 c4(  c8.) d16| c2 c,4|c,8. d16 c2(|c8.) d16 c2| r4 r r8 r16 bf''|a4 a8. bf,16 a4|a2.|a2.|d'8. ef16 d2|d,8. ef16 d2|d4 r d|d r g,|d8. e16 d2| d8. e16 d2|d8. e16 d2|d8. ef16 d2|g4 r r |
+
+ \compressMMRests {
+
+   R2.*1 |
+
+}
+
+g4 r r |
+
+ \compressMMRests {
+
+   R2.*1 |
+
+}
+
+
+g8. a16 g4 bf4| d8. ef16 d4 g|bf8. a16 g4 bf|d8. ef16 d4 g| a\flageolet r r |
+
+ \compressMMRests {
+
+   R2.*1 |
+
+}
+
+g,,4 r r|
+
+ \compressMMRests {
+
+   R2.*1 |
+
+}
+
+g8. a16 g4 c| ef8. d16 c4 ef|g8. a16 g4 c|ef8. d16 c4 ef|a\flageolet r r|
+
+
 
 
 
