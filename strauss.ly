@@ -113,11 +113,98 @@ g,,4 r r|
 
 g8. a16 g4 c| ef8. d16 c4 ef|g8. a16 g4 c|ef8. d16 c4 ef|a\flageolet r r|
 
+ef8. d16 c4 ef|a\flageolet r r| ef,8. d16 c4 ef|a r r|
+
+ \compressMMRests {
+
+   R2.*4 |
+
+}
+
+| f8. e16 d4 f|b r r|  f,8. e16 d4 f|b r r|
+
+ \compressMMRests {
+
+   R2.*3 |
+
+}
+
+fs'2.->|fs2.->|fs2.->(|e2.)|r4 e ds|e fs g|g2.|fs|r4 fs es|fs gs a|a2.gs a,| gs a'4 gs| a gs f e |ds !d cs|c b bf |a r r |
+
+ \compressMMRests {
+
+   R2.*1 |
+
+}
+
+a4 r r|
+
+
+ \compressMMRests {
+
+   R2.*1 |
+
+}
+
+
+a8. b16 a4 c| e8. f16 e4 a| a8. b16 a4 c| e8. f16 e4 a| ef2.  | ef2.| ef2.(|d)|r4 d cs|d e f |f2.|e|r4 e, ds|e g bf |bf2.|a|df2 c4|ef2. df4|f4 e df|c bf e,|f2.|f|f(|ef)|r4 c b|c f a| bf2.|bf2 e,4|f2.|f2.|f2.|ef2|r4 c b|c f a|bf2.~( |bf2 e,4|f2) r4|
+
+ \compressMMRests {
+
+   R2.*1 |
+
+}
+
+r4 df c| ef df bf| a2.~|2 r4|
+
+ \compressMMRests {
+
+   R2.*11 |
+
+}
+
+
+r4 r c,|c'8. df16 c4 bf| af8. bf16 af4 g| e!8-.[ f( af g)] f-. ef-. |d![ c( d ef)] f d | df4 ff bf! | ef8. f16 ef4 gf| df, ff bf!| ef 8. f16 ef4 gf| f,4( af d!|f fs g)| af8. bf16 cf4 af| bf8\(([ a bf) f\)] d bf| gf4 bf ef | gf2. | g,!4 c e! |g2.  |  af,4 c f | bf, df gf | c, c' df,|df' d f|< bf,, f' df'>2.|< bf f' df'>2.|<g b' f' >|<g b' f' >|<c, c' af' f'>|r4 <c c'>4. <af'' f' >8|<c,, c' g' f' >2.|<c c' g' e'>|
+
+<f c' a' f'>2.|<f c' a' f'>2.
+
+ \compressMMRests {
+
+   R2.*5 |
+
+}
+
+<c g' e' c'>2. |<c g' e' c'>2.
+
+ \compressMMRests {
+
+   R2.*5 |
+
+}
+
+<bf' f' df'>2.|<bf f' df'>2.|
+
+ \compressMMRests {
+
+   R2.*1 |
+
+}
+
+
+
+r4 d4.( g,8) ||<g f' d' >2.|<g f' d' >2. | r4 d'4.( g,8)|
+
+
+
 
 
 
 
 
    }
+
+
+
+
 
 
