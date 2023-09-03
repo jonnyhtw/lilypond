@@ -29,7 +29,7 @@ c8. d16 c8 c b c| c'2.|c2.|c,8. d16 c8 c b c|c'2( c8) e,| f2 f8 a,8|c2. | c4. c8
 g4. g4( c8)|c2.| g4. g4( e'8)|e2.|c4. c4 g'8| g2.| \tuplet 2/3 {g8 f} \tuplet 2/3 {e d} |c4 a8 c4. | c b4 a8| g4. a| b c |d4. d4 ef8| d4. g|g a| b c |d4. d4 ef8| d4.  g,4 c8|c2.|  g4. g4 e'8|e2.|c| \tuplet 2/3 {c8 b} \tuplet 2/3 {d c} 	\tuplet 2/3 {c8 g} \tuplet 2/3 {e \acciaccatura g f}   |\tuplet 2/3 {e c} \tuplet 2/3 {g e}| g2. | c,16 c ds ds f f e e fs fs g g | a a b b c c d d  e e g g | af4 g8 af4 g8| af4 g8 af4.|ef16 ef d d ef ef bf4. | f'16 f e e f f df4.| af'16 af g g af af af4.| af2.|   af16 af g g af af af4.| af2.| af8 ef af af4. |af8 df, af' af4. |  af8 gf8 f ef f gf | f4 df8 af4. | r8 ef af af4.| af8 df, af' af4. | af8 g af a bf c | df4 bf8 f4.|r8 f df' df4. | df8 c b c4. | c8 c af' af4.| af8 g f  ef4.| e! f |
 
 
-gf8 g af af2.|
+gf8 g af af4 ef8| |e!4. f|gf8 g a af4. |af8 g af af4.|af8 g af af4.|af af,| af af8 bf c|g8. a16 g8 g fs g |
 
 
 
