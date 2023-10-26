@@ -448,16 +448,16 @@ g2.)  |
 df') d-. f\!-.|
 \f < bf,, f' df'>2.->|
 < bf f' df'>2.->|
-<g b' f' >\cresc->|
-<g b' f' >->|
-<c, c' af' f'>->|
-r4 <c c'>4.( <af'' f' >8)|
-<c,, c' g' f' >2.->|\!
-_\markup{\italic{rit.}}<c c' g' e'>->|
+<d, b' f' >\cresc->|
+<d b' f' >->|
+<c af' f'>->|
+r4 c4.( <af' f' >8)|
+<c, g' f' >2.->|\!
+_\markup{\italic{rit.}}<c g' e'>->|
 
 
-^\markup{\italic{a tempo}}\ff <f c' a' f'>2.->|
-<f c' a' f'>2.->
+^\markup{\italic{a tempo}}\ff <c a' f'>2.->|
+<c a' f'>2.->
 
  \compressMMRests {
 
@@ -559,8 +559,8 @@ r8 g b a g b|
  r8 \downbow c e c b4->|
  <e, b' gs'> r r |
 r8  \downbow c'' e c b4->|
- < e, b' gs'> r r|
- r r b|
+ < e,, b' gs'> r r|
+ r r b'|
 e2( d4\>|
  c2  b4|
  \p a2\!) r4|
@@ -661,7 +661,7 @@ f af,8. bf16 af4|
  r8 df, c df f af |
 df4 f,,8. af16 df4|
  r8 df,\([ c df\)] f af |
- df4  r  \clef "treble" df'8. ef16 f4|
+ df4  r  df8. ef16 f4|
  df8. ef16 f4  |
 df8. ef16  f4 f8. g16|
 af4 f8. g16 af4\! |
@@ -670,9 +670,7 @@ a2.->|
 a2.->|
 g2.|
 
-\clef "alto"
-
-c,,,4 g''-- fs-- |
+c,,4 g''-- fs-- |
 g-- a-- bf--|
  d2.->|
 c|
