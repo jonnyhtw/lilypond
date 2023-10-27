@@ -21,13 +21,12 @@ finbrackets = \markup { ( \dynamic f ) }
 
 
   {\tempo "Allegro molto"    \key d \major \clef "alto" \time 4/4
-   d8 -\finbrackets fs a fs d\fp fs a fs |
-d8\f fs a fs d\fp fs a fs |
-%    d\f fs a fs d\fp fs a fs |
-    d fs a d  e d cs a |
+   d8-. -\finbrackets fs( a fs) d-.\fp fs( a fs) |
+d8\f fs( a fs) d\fp fs( a fs) |
+    d-. fs a d-.  e d cs a |
     d cs b  a  g e a a|
-    d, fs a fs d\fp fs a fs |
-    d\fp fs a fs d\fp fs a fs |
+    d,-. fs( a fs) d-.\fp fs( a fs) |
+    d-.\fp fs( a fs) d-.\fp fs( a fs) |
     d fs a d e d cs a |
     d cs b  a  g e a a|
     d,4 d d d|
@@ -54,21 +53,63 @@ d8\f fs a fs d\fp fs a fs |
 \voiceOne {\repeat tremolo 8 { <a>16 } }\stemDown
 \\
 \voiceTwo {\repeat tremolo 8 { <cs>16 } }\stemUp   |
->> |
+>>
 
-
+|
 
 <<
-\voiceOne {\repeat tremolo 8 { <b>16 } }\stemDown
+\voiceOne {\repeat tremolo 8 { b16 } }\stemDown
 \\
-\voiceTwo {\repeat tremolo 8 { <gs'>16 } }\stemUp   |
+\voiceTwo {\repeat tremolo 8 { gs'16 } }\stemUp   |
 >>
 
 <<
-\voiceOne {\repeat tremolo 8 { <b,>16 } }\stemDown
+\voiceOne {\repeat tremolo 8 { b,16 } }\stemDown
 \\
-\voiceTwo {\repeat tremolo 8 { <gs'>16 } }\stemUp   |
->>|
+\voiceTwo {\repeat tremolo 8 { gs'16 } }\stemUp   |
+>>
+
+|
+
+<<
+\voiceOne {\repeat tremolo 8 { b,16 } }\stemDown
+\\
+\voiceTwo {\repeat tremolo 8 { gs'16 } }\stemUp   |
+>>
+
+<<
+\voiceOne {\repeat tremolo 8 { b,16 } }\stemDown
+\\
+\voiceTwo {\repeat tremolo 8 { gs'16 } }\stemUp   |
+>>
+
+|
+
+<<
+\voiceOne {\repeat tremolo 8 { cs,16 } }\stemDown
+\\
+\voiceTwo {\repeat tremolo 4 { e16 } \repeat tremolo 4 { a16 } }\stemUp   |
+>>
+
+<<
+\voiceOne {\repeat tremolo 8 { cs,16 } }\stemDown
+\\
+\voiceTwo {\repeat tremolo 8 { a'16 } }\stemUp   |
+>>
+
+|
+
+<<
+\voiceOne {\repeat tremolo 8 { cs,16 } }\stemDown
+\\
+\voiceTwo {\repeat tremolo 8 { a'16 } }\stemUp   |
+>>
+
+<<
+\voiceOne {\repeat tremolo 8 { cs,16 } }\stemDown
+\\
+\voiceTwo {\repeat tremolo 8 { a'16 } }\stemUp   |
+>>
 
 
 
